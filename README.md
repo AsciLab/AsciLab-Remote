@@ -1,5 +1,11 @@
 # AsciLab Remote
 
+> [!WARNING]
+> **Firmware updates on hold.** We are fixing a problem that can occur during the amplifier firmware update. Until we post that it is fixed, please do not update the amplifier firmware (Update firmware… / Flash firmware… in the app). If an update has already failed, please do not retry — contact admin@ascilab.com.
+>
+> **펌웨어 업데이트 일시 중단.** 앰프 펌웨어 업데이트 과정에서 생길 수 있는 문제를 고치고 있습니다. 해결 안내를 올릴 때까지 앰프 펌웨어 업데이트(앱의 「펌웨어 업데이트…」/「펌웨어 설치…」)를 진행하지 말아 주세요. 이미 업데이트에 실패했다면 다시 시도하지 마시고 admin@ascilab.com 으로 연락해 주세요.
+
+
 The control app for AsciLab loudspeakers, made by AsciLab. It talks over USB to the Hypex FusionAmp amplifier built into AsciLab speakers — for Mac (macOS 13 or later) and Windows 10/11, no driver needed.
 
 **Download: [Latest release](https://github.com/AsciLab/AsciLab-Remote/releases/latest)**
